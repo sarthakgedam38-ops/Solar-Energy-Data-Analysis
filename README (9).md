@@ -61,12 +61,14 @@ This dashboard consolidates all of that into a single, easy-to-navigate report.
 ### Page 1 — Installation Overview
 KPI cards (Total Installations, Total Capacity, Avg. Cost per Kw, Subsidies), installations and capacity by state, top 5 cities by installations, and monthly generation trend.
 
-![Page 1 - Installation Overview](screenshots/page1_overview.png)
+![Page 1 - Installation Overview](<img width="1312" height="742" alt="page1_overview" src="https://github.com/user-attachments/assets/bf13358b-024f-449b-bff2-93d9f8d9207d" />
+)
 
 ### Page 2 — Vendor & Panel Performance
 Installations by vendor, generation by panel type, installations by category, and cost/subsidy breakdown.
 
-![Page 2 - Vendor & Panel Performance](screenshots/page2_performance.png)
+![Page 2 - Vendor & Panel Performance](<img width="1317" height="740" alt="page2_overview" src="https://github.com/user-attachments/assets/24dd2a6c-feb6-48d3-a0c8-3875a119f99c" />
+)
 
 ## 💡 Key Insights
 
